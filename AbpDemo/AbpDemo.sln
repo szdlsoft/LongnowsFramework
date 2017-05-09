@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{43C1205B-BF6F-4D03-9684-BAB5959D6555}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{617A0451-7997-472F-87CB-D6891209BAE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbpDal", "src\AbpDal\AbpDal.csproj", "{8287C376-E2CE-4005-8CB5-E19073637BD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8287C376-E2CE-4005-8CB5-E19073637BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8287C376-E2CE-4005-8CB5-E19073637BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8287C376-E2CE-4005-8CB5-E19073637BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8287C376-E2CE-4005-8CB5-E19073637BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8287C376-E2CE-4005-8CB5-E19073637BD6} = {43C1205B-BF6F-4D03-9684-BAB5959D6555}
+	EndGlobalSection
+EndGlobal
