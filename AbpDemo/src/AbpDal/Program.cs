@@ -11,7 +11,7 @@ namespace AbpDal
         static void Main(string[] args)
         {
             Console.WriteLine("Helllo git");
-
+            Console.WriteLine("Helllo git2");
         }
     }
 }
